@@ -1,4 +1,4 @@
-This is the AmigEast redesign of screwbreaker's OpenA1200RTC, to fit the "tetris shaped RTC expansion card" format, with the same through-hole RTC chip.
+This is the AmigEast redesign of [screwbreaker's OpenA1200RTC](https://github.com/screwbreaker/OpenA1200RTC), to fit the "tetris shaped RTC expansion card" format, with the same through-hole RTC chip.
 GPLv3
 [Giving back production profit to original opensource design author - opengiveback.org](opengiveback.org)
 

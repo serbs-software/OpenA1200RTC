@@ -1,3 +1,7 @@
+This is the AmigEast redesign of screwbreaker's OpenA1200RTC, to fit the "tetris shaped RTC expansion card" format, with the same through-hole RTC chip.
+GPLv3
+[Giving back production profit to original opensource design author - opengiveback.org](opengiveback.org)
+
 # OpenA1200RTC
 OpenA1200RTC is an Open Hardware RTC module for the Amiga 1200.
 
